@@ -14,7 +14,7 @@ body{
     display: grid;
     justify-content: center;
     font-size: 1.8rem;
-    height: 120vh;
+    min-height: 100vh;
     padding-top: 5rem;
     position: relative;
     font-family: 'Kumbh Sans',sans-serif;
